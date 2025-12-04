@@ -49,15 +49,11 @@ Dropout для борьбы с переобучением
 Отображение вероятности
 
 Установка и запуск
-1. Клонирование репозитория
-git clone https://github.com/Stasian-23/TextMind
-cd TextMind
+1. Скачать дата сет с Kaggle: https://www.kaggle.com/datasets/filipkin/steam-reviews
 
-2. Установка зависимостей
-pip install -r requirements.txt
+2. Установка зависимостей: pip install -r requirements.txt
 
-Открой файл:
-Анализатор_тональности_отзывов_Steam__!.ipynb
+Открой файл: Анализатор_тональности_отзывов_Steam__!.ipynb
 
 3. Запуск Gradio-приложения внутри
 
