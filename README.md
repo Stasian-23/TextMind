@@ -29,5 +29,3 @@ NLTK
 Pandas
 
 Gradio
-
-Обратная связь
